@@ -1,4 +1,4 @@
-﻿ 🍷🍷🍷 **Red Wine Quality Prediction Model** 🍷🍷🍷
+﻿# **🍷🍷🍷Red Wine Quality Prediction Model🍷🍷🍷**
 
 🍷🍇 **About the Model:**
 
@@ -31,7 +31,7 @@
 🎓 **Learning Resources:**
 
 - [Random Forest Classifier Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-- [Wine Quality Dataset](https://www.kaggle.com/datasets/redwinequality)
+- [Wine Quality Dataset](https://github.com/pronzzz/red-wine-quality/blob/main/winequality-red.csv)
 
 🤝 **Contributions Welcome:**
 
